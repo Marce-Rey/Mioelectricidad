@@ -1,2 +1,2 @@
 # Mioelectricidad
-Aquí está el análisis de gráficas de sEMG
+Aquí están las tareas de Mioelectricidad
